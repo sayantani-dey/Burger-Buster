@@ -11,6 +11,8 @@ This project tackles the challenge of food image classification for promoting he
 - Model:
   - A CNN architecture is implemented for image classification.
   - Achieved an accuracy of 75% on the validation set.
+  ![image](https://github.com/sayantani-dey/Burger-Buster/assets/88243330/82b99c2f-ab53-4e12-8429-c471ee7f2cae)
+
 
 ![Screenshot 2024-03-22 112116](https://github.com/sayantani-dey/Burger-Buster/assets/88243330/b9bd4b0b-4b33-47b1-9b79-38db7a9a56df)
 
